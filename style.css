@@ -1,0 +1,180 @@
+body{
+    background-color: rgb(57, 51, 51);   
+   }
+.container1{
+       background-color: white;
+       height:1340px;
+       width:500px;
+       padding:10px 10px 10px 10px;
+       display: inline-block;
+       margin-top: 20px;
+       margin-left: 400px;
+   }
+#head_logo{
+        height:150px;
+       width:500px;   
+}
+#aadhar_img{
+    margin-left: 235px;
+    margin-top: 0px;
+    margin-bottom:60px ;
+}
+#head_data{
+    margin-left:0px;
+}
+#h1 {
+    color: rgb(139, 40, 4);
+    background-color: rgb(242, 95, 41);
+    text-align: center;
+    padding-top:5px;
+    padding-bottom:5px;
+    height: 40;
+    margin-bottom: 0px;
+}
+#h2{
+    margin-top: 0px; 
+    text-align: center;
+    margin-bottom: 0px;
+}
+#h3{
+    margin-top: 0px; 
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 0px;
+    font-weight: bolder;
+    color: rgb(190, 59, 11);
+}
+#h4{
+    margin-top: 0px; 
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    background-color: green;
+    font-size: xx-large;
+}
+#h5{
+    margin-top: 10px; 
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: bolder;
+}
+#date{
+    writing-mode:vertical-rl;
+    font-weight: bolder;
+    height: 100px;
+    display: inline-block;
+    margin-left: 60px;
+}
+.info{
+    display: inline-block; 
+    font-weight: bold;
+    font-size: 14px;
+    width:150px;
+    text-align: left;
+
+}
+#ref{
+    margin-left: 55px;
+    font-weight: bold;
+}
+#barcode{
+    margin-left: 90px;
+}
+#qrcode{
+    margin-left: 340px;
+}
+#aadhar_no{
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    word-spacing: 7px;
+}
+#red{
+    color: red;
+
+}
+#no{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+#ul{
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    word-spacing: 7px;
+    font-weight: bolder;
+    font-size: 25px;
+    text-underline-position: below;
+    color:red;
+}
+#black{
+    color: black;
+}
+#line{
+    font: bolder;
+    font-size: x-large;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#head_logo1{
+    margin-top: 0px;
+    height:110px;
+   width:500px;   
+   margin-bottom: 0px;
+}
+#aadhar_img2{
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom:60px ;
+}
+#goi{
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-bottom:100px ;
+}
+#bottom_data{
+    margin-top: 0px;   
+   margin-bottom: 0px;
+   display: inline-block;
+   padding-left: 30px;
+}
+.bottom_info{
+    display: inline-block;
+    font-weight: bolder;
+    padding-left: 10px;
+
+}
+#qecode1{
+    padding-left: 40px;
+}
+#bottom_no{
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+#redline{
+    color:red;
+    font-weight: bolder;
+}
